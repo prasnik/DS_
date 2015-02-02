@@ -1,0 +1,7 @@
+I read about Support Vector Machine Algorithm
+SVM is useful for classification, regression and anomaly detection.
+It seems that the SVM algorithm needs to be given a set of data-set examples. The alogrithm then builds a model that distinguishes new data set into either one category or another i.e. between the 'training' set and 'non-training' set.
+This algorithm can perhaps be used in the following areas:
+1. detecting suspicious activity on a credit card
+2. detecting insider trading activity 
+3. detecting failing financial health of a public company in a specific industry  
